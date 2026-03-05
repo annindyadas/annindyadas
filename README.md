@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Annindya Das</h1>
 
 <p align="center">
-  <strong>Salesforce Technical Lead & Developer</strong>
+  <strong>Salesforce Technical Lead & Developer</strong> · Jersey City, NJ
 </p>
 
 <p align="center">
@@ -9,13 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://annindyadas.my.site.com/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0176d3?style=for-the-badge&logo=salesforce&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/annindya-das/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@annindyadas"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://www.salesforce.com/trailblazer/adas22"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead" /></a>
-  <img src="https://img.shields.io/badge/Jersey%20City%2C%20NJ-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="https://annindyadas.my.site.com/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0176d3?style=flat-square&for-the-badge&logo=salesforce&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/annindya-das/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@annindyadas"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.salesforce.com/trailblazer/adas22"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=flat-square&for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead" /></a>
+  <img src="https://img.shields.io/badge/Jersey%20City%2C%20NJ-555555?style=flat-square&for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
-
 ---
 
 ### 🎯 What I Do
