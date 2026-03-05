@@ -34,13 +34,13 @@ I build **production-grade Salesforce solutions** — from complex LWC applicati
 
 ### 🛠️ Tech Stack
 
-|                   |                                                                           |
-| :---------------- | :------------------------------------------------------------------------ |
-| ☁️ **Salesforce** | Apex · LWC · Aura · Flows · SOQL/SOSL · REST API · Tooling API · Bulk API |
-| 🤖 **AI**         | Agentforce · Prompt Builder · GitHub Copilot · AI Summarization           |
-| 💻 **Languages**  | JavaScript · Apex · HTML/CSS · Python · PowerShell                        |
-| 🔧 **DevOps**     | SF CLI · Git/GitHub · VS Code · Data Loader · Workbench                   |
-| 📊 **Platform**   | Sales Cloud · Service Cloud · Experience Cloud · Financial Services Cloud |
+|                   |                                                                                          |
+| :---------------- | :--------------------------------------------------------------------------------------- |
+| ☁️ **Salesforce** | Apex · LWC · Aura · Flows · SOQL/SOSL · REST API · Tooling API · Bulk API · Metadata API |
+| 🤖 **AI**         | Agentforce · Prompt Builder · GitHub Copilot · AI Summarization · Agent Builder          |
+| 💻 **Languages**  | JavaScript · Apex · HTML/CSS                                                             |
+| 🔧 **DevOps**     | SF CLI · Git/GitHub · VS Code · Data Loader · Workbench                                  |
+| 📊 **Platform**   | Sales Cloud · Service Cloud · Experience Cloud · Financial Services Cloud                |
 
 ---
 
