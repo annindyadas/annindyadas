@@ -26,7 +26,7 @@ I build **production-grade Salesforce solutions** — from complex LWC applicati
 - ⚡ **Apex & Automation** — Triggers, batch jobs, scheduled classes, and Flow orchestration
 - 🏗️ **Platform Architecture** — Data modeling, security, integrations (REST/Bulk/Tooling API)
 - 🤖 **AI & Agentforce** — Prompt Builder, AI Summarization, Data Library & AI Agents
-- 🚀 **DevOps** — SF CLI, CI/CD pipelines, metadata management
+- 🚀 **DevOps** — SF CLI, metadata management
 
 ---
 
