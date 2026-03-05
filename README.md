@@ -22,9 +22,11 @@
 
 I build **production-grade Salesforce solutions** — from complex LWC applications to end-to-end platform architectures. My focus is on writing clean, maintainable code and creating tools that solve real problems.
 
+- ⚙️ **Salesforce Configuration** — Custom objects, validation rules, page layouts, record types, and declarative automation
+- 🔐 **Salesforce Security** — Profiles, permission sets, sharing rules, field-level security, and org-wide defaults
 - 🔧 **Lightning Web Components** — Reusable, performant UI components for enterprise use
 - ⚡ **Apex & Automation** — Triggers, batch jobs, scheduled classes, and Flow orchestration
-- 🏗️ **Platform Architecture** — Data modeling, security, integrations (REST/Bulk/Tooling API)
+- 🏗️ **Platform Architecture** — Data modeling, integrations (REST/Bulk/Tooling API)
 - 🤖 **AI & Agentforce** — Prompt Builder, AI Summarization, Data Library & AI Agents
 - 🚀 **DevOps** — SF CLI, metadata management
 
