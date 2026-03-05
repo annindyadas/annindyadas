@@ -8,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-annindya--das-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annindya-das/)
 [![Medium](https://img.shields.io/badge/Medium-@annindyadas-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@annindyadas)
 [![Trailhead](https://img.shields.io/badge/Trailhead-adas22-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/adas22)
-[![Email](https://img.shields.io/badge/Email-annindyadas@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:annindyadas@gmail.com)
 
 ---
 
@@ -76,14 +75,6 @@ I build **production-grade Salesforce solutions** — from complex LWC applicati
 2020  →  Senior Salesforce Developer @ Cognizant
 2022  →  Technical Lead @ Cognizant ← current
 ```
-
----
-
-### 💡 Philosophy
-
-> *"Build tools that make complex things simple — whether it's comparing insurance plans or managing Salesforce metadata."*
-
-I believe in shipping working software, writing code that other developers enjoy reading, and always building with the end user in mind.
 
 ---
 
