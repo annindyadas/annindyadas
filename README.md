@@ -15,6 +15,7 @@
   <a href="https://www.salesforce.com/trailblazer/adas22"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=flat-square&for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead" /></a>
   <img src="https://img.shields.io/badge/Jersey%20City%2C%20NJ-555555?style=flat-square&for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
+
 ---
 
 ### 🎯 What I Do
